@@ -1,11 +1,4 @@
-<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-57-00 Academic Agent" src="https://github.com/user-attachments/assets/76fde60d-69ea-4adc-ae8c-9299a2c19609" />
-<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-56-53 Academic Agent" src="https://github.com/user-attachments/assets/8450e787-80c0-402f-9490-d6e8b7e09e60" />
-<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-56-35 Academic Agent" src="https://github.com/user-attachments/assets/5ff8c151-0c6d-474f-b21a-50b1d3424394" />
-<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-56-26 Academic Agent" src="https://github.com/user-attachments/assets/1c96590c-9e2f-4c65-8280-a8e61cbd74b5" />
-<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-56-15 Academic Agent" src="https://github.com/user-attachments/assets/ae5495f5-fdc4-4bcb-8e63-5e444fcabec8" />
-<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-55-52 Academic Agent" src="https://github.com/user-attachments/assets/69de79d4-45ac-4cfd-af30-6f5d4de3a7f5" />
-<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-55-32 Academic Agent" src="https://github.com/user-attachments/assets/875539bf-e41e-441c-b06e-a705858f5249" />
-<div align="center">
+
 
 # 🎓 Academic Agent
 **The AI-Powered Intelligence Platform for Personalized Education**
@@ -84,7 +77,14 @@ Rather than just displaying test scores, the backend builds a multi-dimensional 
 
 <div align="center">
   <!-- Replace src with your Dashboard screenshot URL -->
-  <img src="https://via.placeholder.com/800x450/1E2528/EAEAEA?text=Upload+Dashboard+Screenshot+Here" alt="Academic Agent Dashboard" width="800"/>
+  <img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-57-00 Academic Agent" src="https://github.com/user-attachments/assets/76fde60d-69ea-4adc-ae8c-9299a2c19609" />
+<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-56-53 Academic Agent" src="https://github.com/user-attachments/assets/8450e787-80c0-402f-9490-d6e8b7e09e60" />
+<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-56-35 Academic Agent" src="https://github.com/user-attachments/assets/5ff8c151-0c6d-474f-b21a-50b1d3424394" />
+<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-56-26 Academic Agent" src="https://github.com/user-attachments/assets/1c96590c-9e2f-4c65-8280-a8e61cbd74b5" />
+<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-56-15 Academic Agent" src="https://github.com/user-attachments/assets/ae5495f5-fdc4-4bcb-8e63-5e444fcabec8" />
+<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-55-52 Academic Agent" src="https://github.com/user-attachments/assets/69de79d4-45ac-4cfd-af30-6f5d4de3a7f5" />
+<img width="1900" height="1023" alt="Screenshot 2026-06-14 at 02-55-32 Academic Agent" src="https://github.com/user-attachments/assets/875539bf-e41e-441c-b06e-a705858f5249" />
+<div align="center">
   <br/>
   <em>Next-Gen Academic Analytics Dashboard</em>
 </div>
