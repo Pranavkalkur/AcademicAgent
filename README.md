@@ -73,18 +73,28 @@ Rather than just displaying test scores, the backend builds a multi-dimensional 
 
 ---
 
-## 📸 Screenshots
+## 📸 UI / UX Showcase
 
-<details>
-<summary>Click to view UI Previews</summary>
+<div align="center">
+  <!-- Replace src with your Dashboard screenshot URL -->
+  <img src="https://via.placeholder.com/800x450/1E2528/EAEAEA?text=Upload+Dashboard+Screenshot+Here" alt="Academic Agent Dashboard" width="800"/>
+  <br/>
+  <em>Next-Gen Academic Analytics Dashboard</em>
+</div>
 
-*Add your high-resolution screenshots to the `docs` folder and link them here.*
+<br/>
 
-- **Workspace Dashboard:** `![Dashboard](/docs/dashboard.png)`
-- **Viva Coach Session:** `![Viva Coach](/docs/viva.png)`
-- **Intelligence Report:** `![Report Architect](/docs/report.png)`
+### Core Modules
 
-</details>
+| Authentication & Setup | Subject Configuration |
+| :---: | :---: |
+| <img src="https://via.placeholder.com/400x250/1E2528/EAEAEA?text=Upload+Login+Screenshot+Here" alt="Login" width="400"/> | <img src="https://via.placeholder.com/400x250/1E2528/EAEAEA?text=Upload+Setup+Screenshot+Here" alt="New Subject" width="400"/> |
+| <i>Minimalist, secure JWT Authentication</i> | <i>Workspace generation & theme selection</i> |
+
+| Knowledge Graph & Predictions | Analytics Health |
+| :---: | :---: |
+| <img src="https://via.placeholder.com/400x250/1E2528/EAEAEA?text=Upload+Graph+Screenshot+Here" alt="Knowledge Graph" width="400"/> | <img src="https://via.placeholder.com/400x250/1E2528/EAEAEA?text=Upload+Health+Screenshot+Here" alt="Analytics" width="400"/> |
+| <i>PYQ Engine identifying Emerging Trends</i> | <i>Graph Confidence & Extraction Metrics</i> |
 
 ---
 
