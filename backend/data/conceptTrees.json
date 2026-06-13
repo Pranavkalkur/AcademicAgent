@@ -1,0 +1,44 @@
+{
+  "RSA Algorithm": [
+    "Public Key",
+    "Private Key",
+    "Key Generation",
+    "Modular Arithmetic",
+    "Encryption",
+    "Decryption"
+  ],
+  "Cloud Computing": [
+    "Service Models",
+    "Deployment Models",
+    "Virtualization",
+    "Benefits",
+    "Challenges"
+  ],
+  "Cybercrime Fundamentals": [
+    "Definition of Cybercrime",
+    "Information Security Principles",
+    "Motivations of Cybercriminals",
+    "Evolution of Cybercrime"
+  ],
+  "Social Engineering": [
+    "Phishing",
+    "Pretexting",
+    "Baiting",
+    "Tailgating",
+    "Psychological Manipulation"
+  ],
+  "Botnets": [
+    "Command and Control (C2)",
+    "Zombies/Bots",
+    "DDoS Attacks",
+    "Propagation Methods",
+    "Detection and Mitigation"
+  ],
+  "Digital Forensics": [
+    "Evidence Collection",
+    "Chain of Custody",
+    "Data Recovery",
+    "Forensic Tools",
+    "Legal Admissibility"
+  ]
+}
